@@ -1,2 +1,2 @@
 # Initial_Repository
-My first git repository
+My first git repository for tutorial purpose
